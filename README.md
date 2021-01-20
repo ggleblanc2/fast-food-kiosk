@@ -4,7 +4,7 @@
 
 Recently on Stack Overflow, someone asked a question about a fast-food kiosk they were working on.  I made a comment and moved on.  Later, I started thinking about just how intricate a fast-food kiosk GUI would be, so I coded one.
 
-Here's the GUI I coded.  The picture shows what eould be displayed after taking an order.  Even reducing the pictures by 50%, the GUI is still 1314 x 9365 pixels.
+Here's the GUI I coded.  The picture shows what eould be displayed after taking an order.  Even reducing the pictures by 50%, the GUI is still 1314 x 926 pixels.
 
 ![Fast-food Kiosk GUI](2021-01-20.png)
 
